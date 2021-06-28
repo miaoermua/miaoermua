@@ -1,6 +1,6 @@
 这是我的Github，我的博客👀：miaoermua.github.io
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=amiaoermua&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=miaoermua&show_icons=true)
 
 
 
