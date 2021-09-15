@@ -1,4 +1,4 @@
-这是我的Github，我的博客👀：miaoermua.github.io
+这是我的Github，我的博客👀：www.miaoer.xyz
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=miaoermua&show_icons=true)
 
