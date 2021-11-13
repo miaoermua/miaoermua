@@ -5,5 +5,3 @@
 
 
 我没有star太多项目不要再看了!!!∑(ﾟДﾟノ)ノ
-
-![Image text](https://www.hualigs.cn/image/60d9b154d5f19.jpg)
