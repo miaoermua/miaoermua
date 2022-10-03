@@ -5,7 +5,9 @@
 - 个人主页：https://www.miaoer.xyz
 - 静态博客: https://blog.miaoer.xyz
 
+<!--
 ![个人网站](https://cdn.jsdelivr.net/gh/miaoermua/CatCDN@latest/images/miaoer-webhome.png)
+--->
 
 <p align="center">
   <a href="https://github.com/miaoermua/miaoermua">
