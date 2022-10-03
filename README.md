@@ -8,8 +8,11 @@
 ![个人网站](https://cdn.jsdelivr.net/gh/miaoermua/CatCDN@latest/images/miaoer-webhome.png)
 
 <p align="center">
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=miaoermua&show_icons=true)
+  <a href="https://github.com/miaoermua/miaoermua">
+    <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=miaoermua&show_icons=true" />
+    </a>
 </p>
+
 
 极少的开源贡献:
 - [Docs](https://github.com/mx-space/docs)
