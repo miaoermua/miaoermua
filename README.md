@@ -1,5 +1,4 @@
-# miaoermua
-
+<p align="center">
 这是我的 Github 主页，欢迎关注我的个人主页👻
 
 - 个人主页：https://www.miaoer.xyz
@@ -12,3 +11,4 @@
 极少的开源贡献:
 - [Docs](https://github.com/mx-space/docs)
 - [hexo-theme-yun](https://github.com/YunYouJun/hexo-theme-yun)
+</p>
