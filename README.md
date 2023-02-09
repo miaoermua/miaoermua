@@ -17,8 +17,4 @@
 
 ***
 
-<p align="center">
-  <a href="https://github.com/miaoermua/miaoermua">
-    <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=miaoermua&show_icons=true" />
-    </a>
-</p>
+<img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=miaoermua&show_icons=true" />
