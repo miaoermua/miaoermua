@@ -12,8 +12,8 @@
 
 ## 极少贡献
 
-- [mx-space/docs](https://github.com/mx-space/docs)
-- [YunYouJun/hexo-theme-yun](https://github.com/YunYouJun/hexo-theme-yun)
+- [mx-space/docs](https://github.com/mx-space/docs) Documentation for Mix Space.
+- [YunYouJun/hexo-theme-yun](https://github.com/YunYouJun/hexo-theme-yun) A fast & light & lovely theme for Hexo.
 
 ***
 
