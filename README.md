@@ -17,4 +17,4 @@ Hello ~陌生人，我会把有趣的内容分享，要看看我的博客吗！�
 
 ***
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true)
+<img alt="GitHub Stats" src="[![Anurag's GitHub stats]()](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true)" />
