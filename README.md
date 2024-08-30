@@ -15,6 +15,8 @@ Hello ~陌生人，我会把有趣的内容分享，要看看我的博客吗！�
 - [openwrt-leigodacc-manager](https://github.com/miaoermua/openwrt-leigodacc-manager) · 适用用于 OpenWrt 的 Leigod Acc 管理脚本
 - [catnd](https://github.com/miaoermua/catnd) · 适用用于 CatWrt 的网络诊断脚本
 - [CatWrt-rootfs](https://github.com/miaoermua/CatWrt-rootfs) · 适用用于 CatWrt 的 Docker 版本容器编排
+- [nginx-for-windows-catwrt-repo](https://github.com/miaoermua/nginx-for-windows-catwrt-repo) · 在 Windows 运行的 CatWrt 软件源
+- [nezha-agent-windows](https://github.com/miaoermua/nezha-agent-windows) · 在 Windows 运行的哪吒探针
 
 ## 极少贡献
 
