@@ -2,7 +2,8 @@
 
 Hello ~陌生人，我会把有趣的内容分享，要看看我的博客吗！目前正在保持良好更新并且为数不多提供视频博客。
 
-- 🚀 [Blog](https://www.miaoer.xyz)
+- 🚀 [Blogs](https://www.miaoer.xyz)
+- ❤️ [Sponsor](https://www.miaoer.xyz/sponsor)
 
 ## 开源项目
 
@@ -17,6 +18,8 @@ Hello ~陌生人，我会把有趣的内容分享，要看看我的博客吗！�
 - [CatWrt-rootfs](https://github.com/miaoermua/CatWrt-rootfs) · 适用用于 CatWrt 的 Docker 版本容器编排
 
 ## 极少贡献
+
+~~好玩就 PR~~
 
 - [mx-space/docs](https://github.com/mx-space/docs) · Documentation for Mix Space.
 - [YunYouJun/hexo-theme-yun](https://github.com/YunYouJun/hexo-theme-yun) · A fast & light & lovely theme for Hexo.
