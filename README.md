@@ -14,6 +14,7 @@ Hello ~陌生人，我会把有趣的内容分享，要看看我的博客吗！�
 - [catwrt_base](https://github.com/miaoermua/catwrt_base) · 基于 LEDE 修改的发行版基础 CatWrt 资源仓库
 - [openwrt-leigodacc-manager](https://github.com/miaoermua/openwrt-leigodacc-manager) · 适用用于 OpenWrt 的 Leigod Acc 管理脚本
 - [catnd](https://github.com/miaoermua/catnd) · 适用用于 CatWrt 的网络诊断脚本
+- [CatWrt-rootfs](https://github.com/miaoermua/CatWrt-rootfs) · 适用用于 CatWrt 的 Docker 版本容器编排
 
 ## 极少贡献
 
