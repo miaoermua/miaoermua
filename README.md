@@ -2,7 +2,7 @@
 
 Hello ~陌生人，我会把有趣的内容分享，要看看我的博客吗！目前正在保持良好更新并且为数不多提供视频博客。
 
-- 🚀 [Blogs](https://www.miaoer.xyz) | ❤️ [Sponsor](https://www.miaoer.xyz/sponsor)
+- 🚀 [Blogs](https://www.miaoer.net) | ❤️ [Sponsor](https://www.miaoer.net/sponsor)
 
 ## 开源项目
 
