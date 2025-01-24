@@ -17,6 +17,7 @@ Hello ~陌生人，我会把有趣的内容分享，要看看我的博客吗！�
 - [CatWrt-rootfs](https://github.com/miaoermua/CatWrt-rootfs) · 适用用于 Docker 版本的 CatWrt 容器编排
 - [nginx-for-windows-catwrt-repo](https://github.com/miaoermua/nginx-for-windows-catwrt-repo) · 在 Windows 运行的 CatWrt 软件源
 - [nezha-agent-windows](https://github.com/miaoermua/nezha-agent-windows) · 在 Windows 运行的哪吒探针
+- [luci-app-leigodacc](https://github.com/miaoermua/luci-app-leigodacc) · 适用用于 OpenWrt 的 Leigod Acc 插件
 
 ## 极少贡献
 
