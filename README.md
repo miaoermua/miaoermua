@@ -2,7 +2,19 @@
 
 Hello ~陌生人，我会把有趣的内容分享，要看看我的博客吗！目前正在保持良好更新并且为数不多提供视频博客。
 
-- 🚀 [Blogs](https://www.miaoer.net) | ❤️ [Sponsor](https://www.miaoer.net/sponsor)
+- [🚀 Blogs](https://www.miaoer.net) | [❤️ Sponsor](https://www.miaoer.net/sponsor)
+
+![Android - HyperOS](https://ziadoua.github.io/m3-Markdown-Badges/badges/Android/android2.svg)
+![IOS - IPad OS](https://ziadoua.github.io/m3-Markdown-Badges/badges/iOS/ios1.svg)
+![Linux](https://ziadoua.github.io/m3-Markdown-Badges/badges/Linux/linux3.svg)
+![Arch Linux](https://ziadoua.github.io/m3-Markdown-Badges/badges/Arch/arch2.svg)
+![Windows 11](https://ziadoua.github.io/m3-Markdown-Badges/badges/Windows11/windows113.svg)
+![Docker](https://ziadoua.github.io/m3-Markdown-Badges/badges/Docker/docker1.svg)
+![Debian](https://ziadoua.github.io/m3-Markdown-Badges/badges/Debian/debian2.svg)
+![Ubuntu](https://ziadoua.github.io/m3-Markdown-Badges/badges/Ubuntu/ubuntu1.svg)
+![VSCode](https://ziadoua.github.io/m3-Markdown-Badges/badges/VisualStudioCode/visualstudiocode2.svg)
+![Vercel](https://ziadoua.github.io/m3-Markdown-Badges/badges/Vercel/vercel3.svg)
+
 
 ## 开源项目
 
