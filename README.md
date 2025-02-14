@@ -9,6 +9,7 @@ Hello ~陌生人，我会把有趣的内容分享，要看看我的博客吗！�
 ![Arch Linux](https://ziadoua.github.io/m3-Markdown-Badges/badges/Arch/arch2.svg)
 ![Windows 11](https://ziadoua.github.io/m3-Markdown-Badges/badges/Windows11/windows113.svg)
 ![Docker](https://ziadoua.github.io/m3-Markdown-Badges/badges/Docker/docker1.svg)
+![Chrome](https://ziadoua.github.io/m3-Markdown-Badges/badges/Chrome/chrome2.svg)
 
 ![Linux](https://ziadoua.github.io/m3-Markdown-Badges/badges/Linux/linux3.svg)
 ![Debian](https://ziadoua.github.io/m3-Markdown-Badges/badges/Debian/debian2.svg)
