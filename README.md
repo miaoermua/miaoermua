@@ -1,6 +1,6 @@
 ## Hey there! :wave::smiley:
 
-Hello ~陌生人，我会把有趣的内容分享，要看看我的博客吗！目前正在保持良好更新并且为数不多提供视频博客。
+Hello ~陌生人，我会把有趣的内容分享，要看看我的博客吗！
 
 - [🚀 Blogs](https://www.miaoer.net) | [❤️ Sponsor](https://www.miaoer.net/sponsor)
 
@@ -19,7 +19,7 @@ Hello ~陌生人，我会把有趣的内容分享，要看看我的博客吗！�
 ![Netlify](https://ziadoua.github.io/m3-Markdown-Badges/badges/Netlify/netlify1.svg)
 
 
-## 开源项目
+## 项目
 
 - [CatWrt](https://github.com/miaoermua/CatWrt) · 开源稳定的 OpenWrt 发行版
 - [cattools](https://github.com/miaoermua/cattools) · 基于 BASH 编写的 CatWrt 强大工具箱，帮助用户轻松实现各种实用功能
@@ -34,9 +34,9 @@ Hello ~陌生人，我会把有趣的内容分享，要看看我的博客吗！�
 - [nezha-agent-windows](https://github.com/miaoermua/nezha-agent-windows) · 在 Windows 运行的哪吒探针
 - [luci-app-leigodacc](https://github.com/miaoermua/luci-app-leigodacc) · 适用用于 OpenWrt 的 Leigod Acc 插件
 
-## 极少贡献
+## 参与
 
-~~好玩就 PR~~
+~~极少贡献,好玩就 PR~~
 
 - [mx-space/docs](https://github.com/mx-space/docs) · Documentation for Mix Space.
 - [YunYouJun/hexo-theme-yun](https://github.com/YunYouJun/hexo-theme-yun) · A fast & light & lovely theme for Hexo.
