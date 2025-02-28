@@ -42,3 +42,4 @@ Hello ~陌生人，我会把有趣的内容分享，要看看我的博客吗！
 - [YunYouJun/hexo-theme-yun](https://github.com/YunYouJun/hexo-theme-yun) · A fast & light & lovely theme for Hexo.
 - [coolsnowwolf/packages](https://github.com/coolsnowwolf/packages) 贡献了 tailscale 更新
 - [coolsnowwolf/LEDE](https://github.com/coolsnowwolf/LEDE) 贡献了 Leigod-acc(雷神加速器) 插件化更新
+- [coolsnowwolf/luci](https://github.com/coolsnowwolf/luci) 描述更新
