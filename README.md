@@ -30,7 +30,7 @@ Hello ~陌生人，我会把有趣的内容分享，要看看我的博客吗！
 - ~~[CatWrt-update](https://github.com/miaoermua/catwrt-update) · CatWrt 的更新检测支持(合并到 Cattools)~~
 - ~~[catnd](https://github.com/miaoermua/catnd) · 适用用于 CatWrt 的网络诊断脚本 (合并到 Cattools)~~
 - [CatWrt-rootfs](https://github.com/miaoermua/CatWrt-rootfs) · 适用用于 Docker 版本的 CatWrt 容器编排
-- [nginx-for-windows-catwrt-repo](https://github.com/miaoermua/nginx-for-windows-catwrt-repo) · 在 Windows 运行的 CatWrt 软件源
+- ~~[nginx-for-windows-catwrt-repo](https://github.com/miaoermua/nginx-for-windows-catwrt-repo) · 在 Windows 运行的 CatWrt 软件源(使用 Caddy 替代)~~
 - [nezha-agent-windows](https://github.com/miaoermua/nezha-agent-windows) · 在 Windows 运行的哪吒探针
 - [openwrt-leigod-manager](https://github.com/miaoermua/openwrt-leigodacc-manager) · 基于 shell 脚本的雷神加速器插件管理器，适用于 OpenWrt 系统
 - [luci-app-leigodacc](https://github.com/miaoermua/luci-app-leigodacc) · 适用用于 OpenWrt 的 Leigod Acc 插件
