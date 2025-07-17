@@ -27,13 +27,19 @@ Hello ~陌生人，我会把有趣的内容分享，要看看我的博客吗！
 - [AdguardFilter](https://github.com/miaoermua/AdguardFilter) · 自用 Adguard 规则，最简单的减少误杀
 - [catwrt_base](https://github.com/miaoermua/catwrt_base) · 基于 LEDE 修改的发行版基础 CatWrt 资源仓库
 - [openwrt-leigodacc-manager](https://github.com/miaoermua/openwrt-leigodacc-manager) · 适用用于 OpenWrt 的 Leigod Acc 管理脚本
-- ~~[CatWrt-update](https://github.com/miaoermua/catwrt-update) · CatWrt 的更新检测支持(合并到 Cattools)~~
-- ~~[catnd](https://github.com/miaoermua/catnd) · 适用用于 CatWrt 的网络诊断脚本 (合并到 Cattools)~~
 - [CatWrt-rootfs](https://github.com/miaoermua/CatWrt-rootfs) · 适用用于 Docker 版本的 CatWrt 容器编排
-- ~~[nginx-for-windows-catwrt-repo](https://github.com/miaoermua/nginx-for-windows-catwrt-repo) · 在 Windows 运行的 CatWrt 软件源(使用 Caddy 替代)~~
 - [nezha-agent-windows](https://github.com/miaoermua/nezha-agent-windows) · 在 Windows 运行的哪吒探针
 - [openwrt-leigod-manager](https://github.com/miaoermua/openwrt-leigodacc-manager) · 基于 shell 脚本的雷神加速器插件管理器，适用于 OpenWrt 系统
 - [luci-app-leigodacc](https://github.com/miaoermua/luci-app-leigodacc) · 适用用于 OpenWrt 的 Leigod Acc 插件
+- [openwrt-homebox](https://github.com/miaoermua/openwrt-homebox) · 内网测网速
+- [luci-app-poweroff](https://github.com/miaoermua/luci-app-poweroff) · 一个简单的关机
+- [larksuite-bin](https://github.com/miaoermua/larksuite-bin) · AUR packages/larksuite-bin
+
+## 过时
+
+- ~~[nginx-for-windows-catwrt-repo](https://github.com/miaoermua/nginx-for-windows-catwrt-repo) · 在 Windows 运行的 CatWrt 软件源(使用 Caddy 替代)~~
+- ~~[CatWrt-update](https://github.com/miaoermua/catwrt-update) · CatWrt 的更新检测支持(合并到 Cattools)~~
+- ~~[catnd](https://github.com/miaoermua/catnd) · 适用用于 CatWrt 的网络诊断脚本 (合并到 Cattools)~~
 
 ## 参与
 
@@ -41,6 +47,6 @@ Hello ~陌生人，我会把有趣的内容分享，要看看我的博客吗！
 
 - [mx-space/docs](https://github.com/mx-space/docs) · Documentation for Mix Space.
 - [YunYouJun/hexo-theme-yun](https://github.com/YunYouJun/hexo-theme-yun) · A fast & light & lovely theme for Hexo.
-- [coolsnowwolf/packages](https://github.com/coolsnowwolf/packages) 贡献了 tailscale 更新
+- [coolsnowwolf/packages](https://github.com/coolsnowwolf/packages) 贡献了 tailscale，docker-compose，adh 更新
 - [coolsnowwolf/LEDE](https://github.com/coolsnowwolf/LEDE) 贡献了 Leigod-acc(雷神加速器) 插件化更新
 - [coolsnowwolf/luci](https://github.com/coolsnowwolf/luci) 描述更新
