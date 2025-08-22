@@ -25,8 +25,8 @@ Hello ~陌生人，我会把有趣的内容分享，要看看我的博客吗！
 - [cattools](https://github.com/miaoermua/cattools) · 基于 BASH 编写的 CatWrt 强大工具箱，帮助用户轻松实现各种实用功能
 - [unlock-redmi-ax6000](https://github.com/miaoermua/unlock-redmi-ax6000) · 解锁红米 AX6000 SSH 并且下载校验 U-Boot 脚本
 - [AdguardFilter](https://github.com/miaoermua/AdguardFilter) · 自用 Adguard 规则，最简单的减少误杀
-- [catwrt_base](https://github.com/miaoermua/catwrt_base) · 基于 LEDE 修改的发行版基础 CatWrt 资源仓库
-- [CatWrt/history-packages](https://github.com/CatWrt/history-packages) · 历史支持包
+- [catwrt_base](https://github.com/miaoermua/catwrt_base) · 基于 LEDE 修改的 CatWrt 发行版基础资源仓库
+- [CatWrt/history-packages](https://github.com/CatWrt/history-packages) · CatWrt 历史支持包
 - [openwrt-leigodacc-manager](https://github.com/miaoermua/openwrt-leigodacc-manager) · 适用用于 OpenWrt 的 Leigod Acc 管理脚本
 - [CatWrt-rootfs](https://github.com/miaoermua/CatWrt-rootfs) · 适用用于 Docker 版本的 CatWrt 容器编排
 - [nezha-agent-windows](https://github.com/miaoermua/nezha-agent-windows) · 在 Windows 运行的哪吒探针
