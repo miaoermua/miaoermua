@@ -21,7 +21,7 @@ Hello ~陌生人，我会把有趣的内容分享，要看看我的博客吗！
 
 ## 项目
 
-- [CatWrt](https://github.com/miaoermua/CatWrt) · 开源稳定的 OpenWrt 发行版
+- [CatWrt](https://github.com/miaoermua/CatWrt) · 开源稳定的客制化 OpenWrt 智能网关
 - [cattools](https://github.com/miaoermua/cattools) · 基于 BASH 编写的 CatWrt 强大工具箱，帮助用户轻松实现各种实用功能
 - [unlock-redmi-ax6000](https://github.com/miaoermua/unlock-redmi-ax6000) · 解锁红米 AX6000 SSH 并且下载校验 U-Boot 脚本
 - [AdguardFilter](https://github.com/miaoermua/AdguardFilter) · 自用 Adguard 规则，最简单的减少误杀
