@@ -35,6 +35,8 @@ Hello ~陌生人，我会把有趣的内容分享，要看看我的博客吗！
 - [openwrt-homebox](https://github.com/miaoermua/openwrt-homebox) · 内网测网速
 - [luci-app-poweroff](https://github.com/miaoermua/luci-app-poweroff) · 一个简单的关机
 - [larksuite-bin](https://github.com/miaoermua/larksuite-bin) · AUR packages/larksuite-bin
+- [oopz-electron](https://github.com/miaoermua/oopz-electron) · 使用 electron 打包的 Oopz Linux 客户端
+- [kook-electron](https://github.com/miaoermua/kook-electron) · 使用 electron 打包的 KOOK Linux 客户端
 
 ## 过时
 
