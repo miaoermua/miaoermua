@@ -37,6 +37,7 @@ Hello ~陌生人，我会把有趣的内容分享，要看看我的博客吗！
 - [larksuite-bin](https://github.com/miaoermua/larksuite-bin) · AUR packages/larksuite-bin
 - [oopz-electron](https://github.com/miaoermua/oopz-electron) · 使用 electron 打包的 Oopz Linux 客户端
 - [kook-electron](https://github.com/miaoermua/kook-electron) · 使用 electron 打包的 KOOK Linux 客户端
+- [splayer-pacman](https://github.com/miaoermua/splayer-pacman) · splayer 的 aur 包
 
 ## 过时
 
