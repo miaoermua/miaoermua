@@ -38,6 +38,7 @@ Hello ~陌生人，我会把有趣的内容分享，要看看我的博客吗！
 - [oopz-electron](https://github.com/miaoermua/oopz-electron) · 使用 electron 打包的 Oopz Linux 客户端
 - [kook-electron](https://github.com/miaoermua/kook-electron) · 使用 electron 打包的 KOOK Linux 客户端
 - [splayer-pacman](https://github.com/miaoermua/splayer-pacman) · splayer 的 aur 包
+- [fnapp-peerbanhelper](https://github.com/miaoermua/fnapp-peerbanhelper) · 打包飞牛 fnOS 的 PeerBanHelper 应用
 
 ## 过时
 
