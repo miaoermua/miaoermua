@@ -1,8 +1,9 @@
 ## Hey there! :wave::smiley:
 
-Hello ~陌生人，我会把有趣的内容分享，要看看我的博客吗！
+Hello ~陌生人，这里是喜欢开源的 miaoer，我喜欢 Archlinux 和我的小伙伴们，有时候会把有趣的内容分享，要看看我的博客吗！
 
 - [🚀 Blogs](https://www.miaoer.net) | [❤️ Sponsor](https://www.miaoer.net/sponsor)
+
 
 ![Android - HyperOS](https://ziadoua.github.io/m3-Markdown-Badges/badges/Android/android2.svg)
 ![IOS - IPad OS](https://ziadoua.github.io/m3-Markdown-Badges/badges/iOS/ios1.svg)
@@ -34,7 +35,6 @@ Hello ~陌生人，我会把有趣的内容分享，要看看我的博客吗！
 - [luci-app-leigodacc](https://github.com/miaoermua/luci-app-leigodacc) · 适用用于 OpenWrt 的 Leigod Acc 插件
 - [openwrt-homebox](https://github.com/miaoermua/openwrt-homebox) · 内网测网速
 - [luci-app-poweroff](https://github.com/miaoermua/luci-app-poweroff) · 一个简单的关机
-- [larksuite-bin](https://github.com/miaoermua/larksuite-bin) · AUR packages/larksuite-bin
 - [oopz-electron](https://github.com/miaoermua/oopz-electron) · 使用 electron 打包的 Oopz Linux 客户端
 - [kook-electron](https://github.com/miaoermua/kook-electron) · 使用 electron 打包的 KOOK Linux 客户端
 - [splayer-pacman](https://github.com/miaoermua/splayer-pacman) · splayer 的 aur 包
