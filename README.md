@@ -38,6 +38,9 @@ Hello ~陌生人，我会把有趣的内容分享，要看看我的博客吗！
 - [oopz-electron](https://github.com/miaoermua/oopz-electron) · 使用 electron 打包的 Oopz Linux 客户端
 - [kook-electron](https://github.com/miaoermua/kook-electron) · 使用 electron 打包的 KOOK Linux 客户端
 - [splayer-pacman](https://github.com/miaoermua/splayer-pacman) · splayer 的 aur 包
+- [pica](https://github.com/miaoermua/pica) · Pica Is a Compact Archiver - Pica 喜鹊是一款紧凑型打包器
+- [pica-pkg-repo](https://github.com/miaoermua/pica-pkg-repo) · Pica 软件源
+
 
 ## 过时
 
