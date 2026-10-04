@@ -14,7 +14,6 @@ Hello ~陌生人，这里是喜欢开源的 miaoer，我喜欢 Archlinux 和我�
 
 ![Linux](https://ziadoua.github.io/m3-Markdown-Badges/badges/Linux/linux3.svg)
 ![Debian](https://ziadoua.github.io/m3-Markdown-Badges/badges/Debian/debian2.svg)
-![Ubuntu](https://ziadoua.github.io/m3-Markdown-Badges/badges/Ubuntu/ubuntu1.svg)
 ![VSCode](https://ziadoua.github.io/m3-Markdown-Badges/badges/VisualStudioCode/visualstudiocode2.svg)
 ![Vercel](https://ziadoua.github.io/m3-Markdown-Badges/badges/Vercel/vercel3.svg)
 ![Netlify](https://ziadoua.github.io/m3-Markdown-Badges/badges/Netlify/netlify1.svg)
