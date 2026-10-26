@@ -18,6 +18,7 @@ Hello ~陌生人，这里是喜欢开源的 miaoer，我喜欢 Archlinux 和我�
 ![Vercel](https://ziadoua.github.io/m3-Markdown-Badges/badges/Vercel/vercel3.svg)
 ![Netlify](https://ziadoua.github.io/m3-Markdown-Badges/badges/Netlify/netlify1.svg)
 
+[![wakatime](https://wakatime.com/badge/user/afc1e771-2095-4b3f-9376-eff37f829513.svg)](https://wakatime.com/@afc1e771-2095-4b3f-9376-eff37f829513)
 
 ## 项目
 
